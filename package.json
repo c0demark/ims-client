@@ -1,0 +1,23 @@
+{
+  "name": "ims-client",
+  "version": "0.0.1",
+  "description": "inventory management system demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0demark/ims-client.git"
+  },
+  "keywords": [
+    "ims",
+    "demo"
+  ],
+  "author": "c0demark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c0demark/ims-client/issues"
+  },
+  "homepage": "https://github.com/c0demark/ims-client#readme"
+}

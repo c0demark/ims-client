@@ -1,0 +1,8 @@
+.align-content-center {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+}

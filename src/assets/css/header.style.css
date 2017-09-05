@@ -1,0 +1,45 @@
+.header-wrapper,
+.footer-wrapper {
+    /* background-color: rgba(129, 108, 148, 0.7); */
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .14), 0 1px 5px 0 rgba(0, 0, 0, .12), 0 3px 1px -2px rgba(0, 0, 0, .2);
+    background-image: -o-linear-gradient(right, rgba(129, 108, 148, 0.7), rgba(34, 34, 34, 0.7));
+    background-image: -ms-linear-gradient(right, rgba(129, 108, 148, 0.7), rgba(34, 34, 34, 0.7));
+    background-image: -moz-linear-gradient(right, rgba(129, 108, 148, 0.7), rgba(34, 34, 34, 0.7));
+    background-image: -webkit-linear-gradient(right, rgba(129, 108, 148, 0.7), rgba(34, 34, 34, 0.7));
+    background-image: linear-gradient(right, rgba(129, 108, 148, 0.7), rgba(34, 34, 34, 0.7));
+}
+
+.display-inline-block {
+    display: inline-block;
+}
+
+.text-shadow {
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, .14)
+}
+
+.vertical-align-middle {
+    vertical-align: middle;
+}
+
+.banner-icon-font {
+    font-size: 2.5em;
+    margin-right: 1%;
+}
+
+.banner-icon-text {
+    font-size: 2em;
+    font-weight: bolder;
+    color: #ffffff;
+}
+
+.color-transparent-green {
+    color: rgba(29, 230, 81, 0.8);
+    text-shadow: 2px 2px 2px rgba(2, 21, 10, 0.8);
+}
+
+.section-user-login {
+    padding-top: calc((49.45px - 21.09px)/2);
+    padding-bottom: calc((49.45px - 21.09px)/2);
+    padding-left: calc((163.93px - 14px - 81.74px)/2);
+    padding-right: calc((163.93px - 14px - 81.74px)/2);
+}
